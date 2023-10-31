@@ -4,9 +4,9 @@ In this tutorial, we are going to show you how you can make a moving platform fo
 
  ## 1. Add a Cube Object, Edit it, and then name it `Platform`.
 
- Once you have done it you will end up with this.
+ Once you have done it you will end up a cube.
 
-Make sure you add more cubes within it so that the player does not fall off when using the platform.
+Make sure you add more cubes within it to create walls to prevent the player from falling off when using the platform.
 
 ![Add Cube](https://github.com/LSBUGPG/Vision/assets/17784224/8aa83f83-cc64-4372-a0e8-f69b0024fe61)
 
