@@ -14,9 +14,13 @@ Make sure you add more cubes within it so that the player does not fall off when
 
 ## 2. Create an animation for the platform to move left and right.
 
-First, click create animator and then animate the platform left and right.
+First, click Create Animator and then animate the platform left and right.
 
 ![Click create](https://github.com/LSBUGPG/Vision/assets/17784224/cb3a376f-374a-4791-a567-6f87fe8d2622)
+
+Make sure you make the animation longer for the player to get on the platform when it comes to timing.
+
+https://github.com/LSBUGPG/Vision/assets/17784224/20dd4599-439e-4bd0-ae76-b43432525f95
 
 Once you've done that you will be left with a moving platform.
 
